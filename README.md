@@ -1,0 +1,1 @@
+# local-ScriptGui-Instance.new-ScreenGui-local-Main-Instance.new-Frame-local-TextLabel-Ins
